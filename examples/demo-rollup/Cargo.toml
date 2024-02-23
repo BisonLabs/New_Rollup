@@ -82,7 +82,7 @@ revm = { workspace = true }
 
 reqwest = "0.11"
 tendermint = "0.32"
-prometheus = "0.11.0"
+prometheus = "0.13.3"
 prettytable-rs = "^0.10"
 criterion = "0.5.1"
 log = "0.4"
